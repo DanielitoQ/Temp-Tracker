@@ -19,12 +19,11 @@
 
 ## 📷 Capturas de pantalla
 
-> (Aquí puedes añadir capturas de tu app en funcionamiento si deseas)
 > ![alt text](image.png)
 
 ## ⚙️ ¿Cómo usar Temp Tracker?
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/temp-tracker.git
+   git clone https://github.com/DanielitoQ/Temp-Tracker.git
    ```
